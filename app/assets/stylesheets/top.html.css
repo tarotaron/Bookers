@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+
+.Book{
+	padding: 20px;
+
+}
+p{
+	font-size: 13px;
+	padding: 20px;
+}
+
+a{
+	color: gray;
+	padding-left: 20px;
+
+}

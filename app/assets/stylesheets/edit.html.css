@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+.title{
+	padding: 15px;
+	
+}
+.box{
+	padding: 0px;
+
+}
+.show{
+	font-size: 13px;
+}
